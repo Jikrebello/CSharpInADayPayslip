@@ -1,0 +1,11 @@
+PAYSLIP FOR FEB 2020
+==========================
+Name of Staff: Peter
+Hours Worked: 100
+
+Basic Pay: R5 000,00
+Allowance: R1 000,00
+
+==========================
+Total Pay: R5 000,00
+==========================

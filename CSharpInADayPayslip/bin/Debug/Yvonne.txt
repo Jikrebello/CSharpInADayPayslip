@@ -1,0 +1,11 @@
+PAYSLIP FOR FEB 2020
+==========================
+Name of Staff: Yvonne
+Hours Worked: 50
+
+Basic Pay: R2 500,00
+Allowance: R1 000,00
+
+==========================
+Total Pay: R2 500,00
+==========================

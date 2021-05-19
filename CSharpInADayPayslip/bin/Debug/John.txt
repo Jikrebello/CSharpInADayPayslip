@@ -1,0 +1,11 @@
+PAYSLIP FOR FEB 2020
+==========================
+Name of Staff: John
+Hours Worked: 9
+
+Basic Pay: R270,00
+Overtime: R0,00
+
+==========================
+Total Pay: R270,00
+==========================

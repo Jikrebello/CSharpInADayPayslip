@@ -1,0 +1,11 @@
+PAYSLIP FOR FEB 2020
+==========================
+Name of Staff: Carol
+Hours Worked: 40
+
+Basic Pay: R1 200,00
+Overtime: R0,00
+
+==========================
+Total Pay: R1 200,00
+==========================

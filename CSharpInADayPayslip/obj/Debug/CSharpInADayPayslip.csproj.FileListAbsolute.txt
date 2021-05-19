@@ -1,0 +1,7 @@
+E:\Visual Studio Projects\General C#\CSharpInADayPayslip\bin\Debug\CSharpInADayPayslip.exe.config
+E:\Visual Studio Projects\General C#\CSharpInADayPayslip\bin\Debug\CSharpInADayPayslip.exe
+E:\Visual Studio Projects\General C#\CSharpInADayPayslip\bin\Debug\CSharpInADayPayslip.pdb
+E:\Visual Studio Projects\General C#\CSharpInADayPayslip\obj\Debug\CSharpInADayPayslip.csprojAssemblyReference.cache
+E:\Visual Studio Projects\General C#\CSharpInADayPayslip\obj\Debug\CSharpInADayPayslip.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\General C#\CSharpInADayPayslip\obj\Debug\CSharpInADayPayslip.exe
+E:\Visual Studio Projects\General C#\CSharpInADayPayslip\obj\Debug\CSharpInADayPayslip.pdb
